@@ -51,7 +51,9 @@ If you're looking for a qualified, competent, and passionate individual for your
 <h3 style="color: rgba(0, 0, 0, .70);">Contact me</h3>
 
 <a href="https://www.linkedin.com/in/gwenaëlcotton">![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
+
 Know more about me: [Portfolio]( https://gwenaelcotton.netlify.app/)
+
 Write to me: [gwenael.cotton@gmail.com](mailto:gwenael.cotton@gmail.com)
 
 <h3 style="color: rgba(0, 0, 0, .70);">FUN</h3>
