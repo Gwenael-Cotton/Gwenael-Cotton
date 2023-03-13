@@ -1,7 +1,6 @@
 <h1 style="color: rgba(0, 0, 0, .70);">👋🏼 Hi, I'm Gwenaël Cotton</h1>
 
 <i>Status :</i> Open to work 
-<i>Last experience :</i> Agile web Developer apprenticeship at Sfeir 2021 - 2023.
 
 <div style="border: 3px solid rgba(0, 0, 0, .10); padding: 1rem; margin: 1rem;">
 I am a front-end web developer with 2 years of experience in the field. I gained my skills through an apprenticeship at Sfeir Group. My main expertise lies in React development, but I also have working experience with Terraform, GCP, CI/CD, Docker, and various other technologies.
