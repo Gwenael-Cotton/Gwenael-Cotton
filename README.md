@@ -22,7 +22,6 @@ If you're looking for a qualified, competent, and passionate individual for your
     <img src="https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black" />
     <img src="https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js" />
     <img src="https://img.shields.io/badge/-Nodejs-339933?style=flat-square&logo=Node.js&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Vue.js-2db07b?style=flat-square&logo=vuedotjs&logoColor=white" />
     <img src="https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux" />
 </div><br/>
 <div >
@@ -31,17 +30,12 @@ If you're looking for a qualified, competent, and passionate individual for your
 </div>
 <div>
     <img src="https://img.shields.io/badge/-Docker-0095d1?style=flat-square&logo=docker&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Terraform-0095d1?style=flat-square&logo=terraform&logoColor=blueviolet&color=white" />
-    <img src="https://img.shields.io/badge/-GCP-de4032?style=flat-square&logo=googlecloud&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Netlify-430098?style=flat-square&logo=netlify" />
-    <img src="https://img.shields.io/badge/-Railway-430098?style=flat-square&logo=railway&color=black" />
 </div>
 </div>
 <br/>
 <div>
     <img src="https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white" />
     <img src="https://img.shields.io/badge/-Jest-red?style=flat-square&logo=jest&logoColor=white" />
-    <img src="https://img.shields.io/badge/-JWT-000000?style=flat-square&logo=json-web-tokens&logoColor=white" />
     <img src="https://img.shields.io/badge/-Git-black?style=flat-square&logo=git" />
     <img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github" />
     <img src="https://img.shields.io/badge/-Gitlab-ef9b24?style=flat-square&logo=gitlab&logoColor=white" />
