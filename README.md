@@ -46,7 +46,7 @@ If you're looking for a qualified, competent, and passionate individual for your
 
 <a href="https://www.linkedin.com/in/gwenaëlcotton">![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
 
-Know more about me: [Portfolio]( https://gwenaelcotton.netlify.app/)
+Know more about me: [Portfolio]( https://www.gwenaelcotton.com)
 
 Write to me: [gwenael.cotton@gmail.com](mailto:gwenael.cotton@gmail.com)
 
