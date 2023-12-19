@@ -21,8 +21,6 @@ If you're looking for a qualified, competent, and passionate individual for your
     <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
     <img src="https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black" />
     <img src="https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js" />
-    <img src="https://img.shields.io/badge/-Nodejs-339933?style=flat-square&logo=Node.js&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux" />
 </div><br/>
 <div >
 <div>
@@ -35,7 +33,6 @@ If you're looking for a qualified, competent, and passionate individual for your
 <br/>
 <div>
     <img src="https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Jest-red?style=flat-square&logo=jest&logoColor=white" />
     <img src="https://img.shields.io/badge/-Git-black?style=flat-square&logo=git" />
     <img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github" />
     <img src="https://img.shields.io/badge/-Gitlab-ef9b24?style=flat-square&logo=gitlab&logoColor=white" />
