@@ -51,4 +51,5 @@ Write to me: [gwenael.cotton@gmail.com](mailto:gwenael.cotton@gmail.com)
 <a href="https://www.codewars.com/users/Gwenael-Cotton-Codewars/stats">Codewars</a>
 
 ![codewars](https://www.codewars.com/users/Gwenael-Cotton-Codewars/badges/micro)
-![AOC](https://github.com/Gwenael-Cotton/adventOfCode)
+
+[Advent Of Code](https://github.com/Gwenael-Cotton/adventOfCode)
